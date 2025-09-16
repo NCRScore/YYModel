@@ -52,7 +52,7 @@ Usage
 @end
 @implementation User
 @end
-chenyifyinformation$cc8888
+11111111
 	
 // Convert json to model:
 User *user = [User yy_modelWithJSON:json];
